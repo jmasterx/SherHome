@@ -1,0 +1,95 @@
+﻿<!doctype html>
+<html class="no-js" lang="">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>SherHome</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="apple-touch-icon" href="apple-touch-icon.png">
+
+        <link rel="stylesheet" href="css/normalize.min.css">
+        <link rel="stylesheet" href="css/main.css">
+
+        <link rel="stylesheet" href="js/vendor/jquery-ui-1.11.4/jquery-ui.min.css">
+        <link rel="stylesheet" href="js/vendor/jquery-ui-1.11.4/jquery-ui.structure.min.css">
+        <link rel="stylesheet" href="js/vendor/jquery-ui-1.11.4/jquery-ui.theme.min.css">
+
+
+        <script src="js/vendor/jquery-1.11.2.min.js"></script>
+        <script src="js/vendor/jquery-ui-1.11.4/jquery-ui.min.js"></script>
+
+        <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+        <script src="js/jquery.blockUI.js" type="text/javascript" charset="utf-8"></script>
+        <script src="js/main.js" type="text/javascript" charset="utf-8"></script>
+
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBwc1rB8SLF80EN5KspUyVCv2hBIdj-fNg"></script>
+
+        <script>
+            initApp();
+        </script>
+
+
+    </head>
+    <body>
+        <div id="throbber" style="display:none;">
+            <img src="/img/busy.gif" />
+        </div>
+        <div id="sidebarcontainer">
+            <div id="sliderwrap">
+                <p class="sidebarlabelfixed">To find your new home, drag the sliders to tell us your priorities.</p>
+                <p class="sidebarlabelfixedhelp">Drag them to the right to be closer to the feature, and to the left to avoid it.</p>
+                <p class="sidebarlabelfixedhelp">Leave the slider untouched if it is not an important feature.</p>
+                <p class="sidebarcategory">Public Services</p>
+                <p class="sidebarlabel">Bus Stops</p>
+                <div id="bus" class="sidebarslider"></div>
+                <p class="sidebarlabel">WiFi Hotspots</p>
+                <div id="zap" class="sidebarslider"></div>
+                <p class="sidebarlabel">Hospitals</p>
+                <div id="hospitals" class="sidebarslider"></div>
+                <p class="sidebarlabel">Schools</p>
+                <div id="schools" class="sidebarslider"></div>
+                <p class="sidebarlabel">Ecocentres</p>
+                <div id="ecocenters" class="sidebarslider"></div>
+                <p class="sidebarcategory">Entertainment</p>
+                <p class="sidebarlabel">Events</p>
+                <div id="events" class="sidebarslider"></div>
+                <p class="sidebarlabel">Day Camps</p>
+                <div id="camps" class="sidebarslider"></div>
+                <p class="sidebarlabel">Legal Graffiti</p>
+                <div id="graffiti" class="sidebarslider"></div>
+                <p class="sidebarlabel">Stores</p>
+                <div id="stores" class="sidebarslider"></div>
+                <p class="sidebarlabel">Attractions</p>
+                <div id="attractions" class="sidebarslider"></div>
+                <p class="sidebarlabel">Restaurants</p>
+                <div id="restaurants" class="sidebarslider"></div>
+                <p class="sidebarcategory">Physical Activities</p>
+                <p class="sidebarlabel">Parks</p>
+                <div id="parks" class="sidebarslider"></div>
+                <p class="sidebarlabel">Golf Courses</p>
+                <div id="golf" class="sidebarslider"></div>
+            </div>
+           
+        </div>
+        <div id="mapcontainer">
+
+        </div>
+        <div id="resultcontainer">
+            <div id="results">
+                <div id="resultwrap">
+
+                </div>
+                </div>
+        </div>
+        <div id="header">
+            <div id="logocontainer">
+            <img src="img/logo.png" />
+            </div>
+        </div>
+        <div id="footer">
+            <p class="copyright">©2016 SherHome Team</p>
+        </div>
+
+    </body>
+</html>

@@ -1,0 +1,113 @@
+[
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Camp de jour de l'arrondissement",
+        "ARROND": "Arrondissement de Brompton",
+        "NOM_ORGAN": "Ville de Sherbrooke",
+        "TEL1": "819-846-2757",
+        "CONTACT": "arr.brompton@ville.sherbrooke.qc.ca",
+        "URL": "http://www.ville.sherbrooke.qc.ca/citoyen/vie-sportive-et-recreative/camps-de-jour/camp-de-jour-de-larrondissement-de-brompton/",
+        "LATITUDE":"45.472740",
+        "LONGITUDE":"-71.945062"
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Camp de jour de l'arrondissement",
+        "ARROND": "Arrondissement de Lennoxville",
+        "NOM_ORGAN": "Ville de Sherbrooke",
+        "TEL1": "819-569-9388",
+        "CONTACT": null,
+        "URL": "http://www.ville.sherbrooke.qc.ca/citoyen/vie-sportive-et-recreative/camps-de-jour/camp-de-jour-de-larrondissement-de-lennoxville/",
+        "LATITUDE":"45.361618",
+        "LONGITUDE":"-71.845225"
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Camp de théâtre",
+        "ARROND": "Arrondissement de Lennoxville",
+        "NOM_ORGAN": "Ville de Sherbrooke",
+        "TEL1": "819-569-9388",
+        "CONTACT": null,
+        "URL": "http://www.ville.sherbrooke.qc.ca/citoyen/vie-sportive-et-recreative/camps-de-jour/camp-de-theatre/",
+        "LATITUDE":"45.361618",
+        "LONGITUDE":"-71.845225"
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Camp de jour du parc Belvédère",
+        "ARROND": "Arrondissement du Mont-Bellevue",
+        "NOM_ORGAN": "Ville de Sherbrooke",
+        "TEL1": "819-563-3993",
+        "CONTACT": "arr.mont-bellevue@ville.sherbrooke.qc.ca",
+        "URL": "http://www.ville.sherbrooke.qc.ca/citoyen/vie-sportive-et-recreative/camps-de-jour/camp-de-jour-du-parc-belvedere/",
+        "LATITUDE":"45.390887",
+        "LONGITUDE":"-71.902319"
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Camp de sports du parc Belvédère",
+        "ARROND": "Arrondissement du Mont-Bellevue",
+        "NOM_ORGAN": "Ville de Sherbrooke",
+        "TEL1": "819-563-3993",
+        "CONTACT": "arr.mont-bellevue@ville.sherbrooke.qc.ca",
+        "URL": "http://www.ville.sherbrooke.qc.ca/citoyen/vie-sportive-et-recreative/camps-de-jour/camp-de-sports-du-parc-belvedere/",
+        "LATITUDE":"45.390887",
+        "LONGITUDE":"-71.902319"
+
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Centre communautaire de loisir Sherbrooke Inc.",
+        "ARROND": "Arrondissement du Mont-Bellevue",
+        "NOM_ORGAN": "Centre communautaire de loisir Sherbrooke Inc.",
+        "TEL1": "819-821-5601",
+        "CONTACT": "info@loisirsherbrooke.com",
+        "URL": "http://www.cclsherbrooke.org",
+        "LATITUDE":"45.390887",
+        "LONGITUDE":"-71.902319"
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Carrefour Accès Loisirs",
+        "ARROND": "Arrondissement du Mont-Bellevue",
+        "NOM_ORGAN": "Carrefour Accès Loisirs",
+        "TEL1": "819-821-1995",
+        "CONTACT": "info@carrefouraccesloisirs.com",
+        "URL": "http://www.carrefouraccesloisirs.com",
+        "LATITUDE":"45.390887",
+        "LONGITUDE":"-71.902319"
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Loisirs Fleuri-Est",
+        "ARROND": "Arrondissement de Fleurimont",
+        "NOM_ORGAN": "Loisirs Fleuri-Est",
+        "TEL1": "819-821-5791",
+        "CONTACT": "information@loisirsfleuriest.org",
+        "URL": "http://www.loisirsfleuriest.org",
+        "LATITUDE":"45.404102",
+        "LONGITUDE":"-71.867864"
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Loisirs Acti-Famille",
+        "ARROND": "Arrondissement de Rock Forest–Saint-Élie–Deauville",
+        "NOM_ORGAN": "Loisirs Acti-Famille",
+        "TEL1": "819-864-9508",
+        "CONTACT": "info@loisirsactifamille.com",
+        "URL": "http://www.loisirsactifamille.com",
+        "LATITUDE":"45.347713",
+        "LONGITUDE":"-71.992562"
+      },
+      {
+        "MUNID": "43027",
+        "NOM_CAMP": "Sherbrooke Loisirs-Action",
+        "ARROND": "Arrondissement de Jacques-Cartier",
+        "NOM_ORGAN": "Sherbrooke Loisirs-Action",
+        "TEL1": "819-821-5780",
+        "CONTACT": null,
+        "URL": "http://www.sherbrookeloisirsaction.com",
+        "LATITUDE":"45.403617",
+        "LONGITUDE":"-71.910065"
+      }
+]
