@@ -97,7 +97,7 @@ console.log("Reading " + url +  "...");
 			        var title = $('title').text();
 			        if(pageNo == 1 || title.includes('Page ' + pageNo))
 			        {
-			        	$titles = $("a[class='title']");
+			        	$titles = $("a.title");
 
 			        	for(var i = 0; i < $titles.length; i++)
 			        	{
