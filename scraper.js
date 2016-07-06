@@ -140,7 +140,7 @@ var main = function()
 		'http://www.kijiji.ca/b-maison-a-vendre/sherbrooke-qc/page-$/c35l1700156r5.0?ad=offering'];
 
 	var adUrls = [];
-	var rootUrl = 'http://www.kijiji.ca/';
+	var rootUrl = 'http://www.kijiji.ca';
 	var filename = 'kijiji.json';
 	var adObjects = [];
 
